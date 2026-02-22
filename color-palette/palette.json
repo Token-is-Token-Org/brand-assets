@@ -1,0 +1,9 @@
+{
+  "colors": {
+    "primary": { "name": "Primary", "hex": "#3B82F6", "usage": "主色" },
+    "secondary": { "name": "Secondary", "hex": "#10B981", "usage": "辅助色" },
+    "accent": { "name": "Accent", "hex": "#F59E0B", "usage": "强调色" },
+    "dark": { "name": "Dark", "hex": "#1F2937", "usage": "深色" },
+    "light": { "name": "Light", "hex": "#F9FAFB", "usage": "浅色" }
+  }
+}
